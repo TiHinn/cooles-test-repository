@@ -1,4 +1,4 @@
-processor	: 0
+processor	:  öäääsadfjsadlfsdaf Die schwarzen, untoten, *, Waschlappen 0
 vendor_id	: GenuineIntel
 icrocode	: 0x1f
 cpu MHz		: 881.835
