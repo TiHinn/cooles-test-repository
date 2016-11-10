@@ -8,3 +8,5 @@ microcode	: 0x1f
 cpu MHz		: 881.835
 cache size	: 3072 KB
 physical id	: 0
+
+BUMM!
